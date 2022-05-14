@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "878957561132",
+    "project_id": "soul-shake",
+    "storage_bucket": "soul-shake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878957561132:android:ce8cc5c711831c8a0f9889",
+        "android_client_info": {
+          "package_name": "co.uk.flutterly.prayer_hotspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878957561132-84accfsk1jf95agvvta9gh8u8ca5o97s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo9KxVPVzyUHQHAGMzvDtUQxxM2mVdgnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878957561132-84accfsk1jf95agvvta9gh8u8ca5o97s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878957561132-cc0v8214jcvh6300sfr4udkj49tgr06b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.uk.flutterly.hotspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
