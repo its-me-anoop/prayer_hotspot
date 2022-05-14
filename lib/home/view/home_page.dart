@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
     final user = context.select((AppBloc bloc) => bloc.state.user);
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Home'),
+        title: const Text('Prayer Hotspot'),
         actions: <Widget>[
           IconButton(
             key: const Key('homePage_logout_iconButton'),
